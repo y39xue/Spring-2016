@@ -1,6 +1,6 @@
 # Spring 2016 Internship Applications:
 
-U.S.A（36）
+###U.S.A（36）
 
 Yelp
 
@@ -82,7 +82,7 @@ Toast
 
 
 
-Greater Toronto Area （11）
+### Greater Toronto Area （11）
 
 
 PayTM Lab (bigger data engineering)
@@ -108,7 +108,7 @@ Groupby
 Wave Accounting
 
 
-KW area （9）
+###KW area （9）
 
 Encircle Inc 
 
