@@ -1,5 +1,11 @@
 # Spring 2016 Internship Applications:
 
+Here's a list of companys that I'd likely to apply to, most of them are startups or small to medium sized companys. With some exclusion of larger internet companys llike Yelp, Which is probably my favorite place to work!
+
+
+Looking forward to see u in Boston, Victoria!~
+
+
 ###U.S.A（36）
 
 Yelp
