@@ -3,7 +3,10 @@
 Boston <3
 
 
-###U.S.A（51）
+###U.S.A（53）
+
+
+Amazon.com
 
 A9.com
 
@@ -12,6 +15,8 @@ AdmitHub LLC
 Amplify Education Inc
 
 Arista Networks
+
+BazaarVoice(Austin, Texas)
 
 Bloomberg
 
@@ -54,8 +59,6 @@ kanjoya
 Mesosphere Inc
 
 Placeiq
-
-XO Group
 
 AeroFS
 
@@ -106,6 +109,8 @@ Toast
 Veyo
 
 Tinfoil Security 
+
+Twitch
 
 sprig
 
