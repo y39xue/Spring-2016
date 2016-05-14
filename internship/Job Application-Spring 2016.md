@@ -5,6 +5,30 @@ Boston <3
 
 ###U.S.A（36）
 
+A9.com
+
+AdmitHub LLC
+
+Amplify Education Inc
+
+Arista Networks
+
+Bloomberg
+
+Brigade Media(Web & Backend)
+
+Citadel Capital
+
+Microsoft
+
+Redfin
+
+Reputation.com Inc
+
+Riviera Parner
+
+
+
 Yelp
 
 Flexport
@@ -63,7 +87,7 @@ Cisco Meraki
 
 BitTitan
 
-Heaysay social
+Hearsay social
 
 frontapp.com
 
@@ -83,8 +107,7 @@ Veyo
 
 Tinfoil Security 
 
-Veyo
-
+sprig
 
 
 
