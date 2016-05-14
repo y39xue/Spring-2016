@@ -3,7 +3,7 @@
 Boston <3
 
 
-###U.S.A（53）
+###U.S.A（65）
 
 
 Amazon.com
@@ -60,6 +60,8 @@ Mesosphere Inc
 
 Placeiq
 
+Paradata Solutions(San Jose)
+
 AeroFS
 
 Confide(small!)
@@ -113,6 +115,13 @@ Tinfoil Security
 Twitch
 
 sprig
+
+slack
+
+From Indeed: WalletIQ, Zillow, Synapse Product Development, Infinera,
+Pinterest EmployToy(NY)
+From Linkedin: HERE, Proofpoint, Walmart Global eCommerce,Hologic, Inc.
+Altair
 
 
 
