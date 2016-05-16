@@ -155,6 +155,7 @@ Oracle Eloqua
 
 Kinetic cafe
 
+
 ###KW area （9）
 
 Encircle Inc 
@@ -167,8 +168,6 @@ NetSuite Waterloo
 
 QuantumCube Corp
 
-Pitstop
-
 TextNow
 
 MappedIn
@@ -176,5 +175,10 @@ MappedIn
 Shopify
 
 Kash Corp
+
+
+
+
+Microsoft (kamaille@microsoft.com) Katie Maillet
 
 
