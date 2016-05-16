@@ -126,7 +126,7 @@ Altair
 
 
 
-### Greater Toronto Area （11）
+### Greater Toronto Area （9）
 
 
 PayTM Lab (bigger data engineering)
@@ -145,14 +145,15 @@ FlashStock
 
 PagerDuty
 
-500px
-
 Groupby
 
 Wave Accounting
 
-Freshbooks
+Drop Loyalty
 
+Oracle Eloqua
+
+Kinetic cafe
 
 ###KW area （9）
 
@@ -173,4 +174,7 @@ TextNow
 MappedIn
 
 Shopify
+
+Kash Corp
+
 
